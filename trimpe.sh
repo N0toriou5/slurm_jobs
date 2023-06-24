@@ -17,6 +17,7 @@
 
 # Expects a file submitted as an environmental variable ...
 # parallel 'sbatch --export=TASKFILE="{}" <.q>' ::: <>
+# rename this file as trimpe.q for this
 
 ml Java/1.7.0_80 Trimmomatic/0.36-Java-1.7.0_80
 
