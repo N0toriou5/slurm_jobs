@@ -1,1 +1,1 @@
-# slurm_jobs
+# Slurm jobs collection
